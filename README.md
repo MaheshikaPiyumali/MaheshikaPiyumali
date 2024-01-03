@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/Maheshika_piyumali-450817221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haitha" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Maheshika.piyumali.923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maheshika" height="30" width="40" /></a>
-<a href="https://wa.me/94774958618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="maheshika" height="30" width="40" /></a>
+<a href="https://wa.me/94773795800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="maheshika" height="30" width="40" /></a>
 </p>
 <br><br>
 
