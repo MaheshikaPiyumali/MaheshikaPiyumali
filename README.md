@@ -23,27 +23,7 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/Maheshika_piyumali-450817221" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.facebook.com/Maheshika.piyumali.923" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://wa.me/94773795800" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/Maheshika_piyumali-450817221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haitha" height="30" width="40" /></a> <a href="https://www.facebook.com/Maheshika.piyumali.923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maheshika" height="30" width="40" /></a> <a href="https://wa.me/94773795800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="maheshika" height="30" width="40" /></a> </p>
 <br><br>
 
 
