@@ -24,17 +24,25 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/Maheshika_piyumali-450817221" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/Maheshika.piyumali.923" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/94773795800" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40"/>
-  </a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/Maheshika_piyumali-450817221" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/Maheshika.piyumali.923" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/94773795800" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 </p>
 <br><br>
 
